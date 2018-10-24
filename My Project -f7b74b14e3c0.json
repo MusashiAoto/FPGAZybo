@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "green-gasket-202902",
+  "private_key_id": "f7b74b14e3c0280b828085041367f9ca2db51361",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCRC8Xga5bRjd52\nbN6M/+oE1EwJEpE5jULw28FR0N80OEFlkP6h5ChJAbQlfFvblVIvvYIwk5IyFyoc\nY4XV1Isjd1KeqgxQeiaFlXvFOUBEPrLzSJLWKhkEwG4TQ6fbK6tRo3AT8UuPlPXe\neEOU1cfJMCasTuMchVMFA1LAjzyhv0rq+020FNL+suGDHZPy5e0VCZApz9lis+J0\nfpHiB8syXZt/1/0GWLgPYnksGisDOrkRHY/mLGUIfPpmXRAGurrE6OkCpzzwuwfb\nrQmcskj9btPw/iOMQ0c80Q5yb4vnmZWOaHCjpaX8qnUh3zD2VcJ0aPGb4Vd+7TKW\n49B1pqfjAgMBAAECggEAAMipq5ej64L9l5yUAVAQEYbyLZRfm4ouDpjUF8nuAt1m\nS723r+PzQchpaFBz5fZjHiXt3QRXJGp9TET6FViTiJVdqW+C0dvZzHFX3LjSpkEZ\nJ3kWGLkxLxY5Ig/aCYmtYIC7xifQ1Y2jsdhAM+mJ2FuobIL1SuiqNQXlExb9vWQG\nAOfRmkS+w7IAvxmVDFkyCaohiTvHyEzuhJsm/UrTVKm9g5+0NMkN9dzy7SfgFK1I\ncRDoABTciBGQwDu2rPYQfuhvr/BwjsTD9ETXjWoHJOAv2mCEMyRl+BnC1v2bs4Fx\ncynlSfb3bJMNVUyP83+FNRewnJM+k5AIwhtNvKo15QKBgQDK4oow265rtxcwseKn\nO8w8JV2PHyaoIPqBst8+hOIcF+mMARXYVj80HDslTnz/uavGbA8CBmENA5ZeHdxj\ne+JXh9XWSH5jsg3HbZcsd1u37CQ5+rm3UaY6wnuqypLPeUjAxEte3oMMMkioLsBr\n3hD3us6rlJc9TNmrbshtoUC7lwKBgQC3BNXwz3mI0ET+ck19ki5A4Rfr0Pe6SzT9\n0pspHmU0HHM1qXz+3iwCvpLRrohlzF4SUTLjasv8JpAAii9NPojJqJVaf0c1nZ1t\n8WzaMJq2AE6INOLJPPO1BFjONe9FNAYr7tkohPsL2Lw4ZYW2O7UpsdimdEyFy3nR\nBhbr09VvlQKBgQCWnEOv73T0+48YlAVI1khQIgDpPVvKFelBHRNC6wybhFjYmPmp\nhqUWvxpdIH4ErMXK3+7oNuoW6iHXLl2r8IxfJDRnBZvl0IkQEdfWp6iLyZ4++FSj\ntNYs6rE5YXZI1KVgjJfTDmXESRPM3h/0M37vGFtR3lXDqOgxrmTVlY5jcwKBgBmB\nPgNCFpC/XW4MJcpjDbkS5U+CnpNCmc7pg5/2UWoysMeAqB+ofH+haTp5VR7CnTV2\nRV416tln0leQ6kicd1mK+c1TwWuyXFcO9vltHpJQdqE6pYQfz2KhiXKrR33gYx/K\nOE8SQR4EhS5iz4B2z6dQ1n1T5bobgg1kCNuyeKMFAoGBAJ6Knn8zX3kNe2cyDu84\nQDvw/hlGr5ZoFQOW8jDBeXLpjyo7StukrU61oTcfZOGMy1/o9vfbs7FujajVQUv8\nLH2KDstIvacHa13OOMwSNryfuYicmHOYsQFXtkrNNrVrUrzny2SvrRq/vlcskwMj\n1AFH/YrK3NYKVVOyYtgnvLvA\n-----END PRIVATE KEY-----\n",
+  "client_email": "musashi2tweet@green-gasket-202902.iam.gserviceaccount.com",
+  "client_id": "116972338364645724179",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/musashi2tweet%40green-gasket-202902.iam.gserviceaccount.com"
+}
